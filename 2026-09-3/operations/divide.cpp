@@ -1,5 +1,5 @@
 #include<iostream>
 
-double divide(double A,double B){
+int divide(int A,int B){
     return A/B;
 }

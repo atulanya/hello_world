@@ -1,5 +1,5 @@
 #include<iostream>
 
-double multiply(double A,double B){
+int  multiply(int A,int B){
     return A*B
 }

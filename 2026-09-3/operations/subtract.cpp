@@ -1,4 +1,4 @@
 #include<iostream>
-double subtract(double A,double B){
+int subtract(int A,int B){
     return A-B;
 }

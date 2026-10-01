@@ -1,6 +1,6 @@
 #include<iostream>
 
-double add(double A,double B){
+int add(int A,int B){
 
     return A+B;
 }
